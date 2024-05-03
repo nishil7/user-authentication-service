@@ -12,11 +12,11 @@ How to setup the Project ?
 Getting started
 1. Project Requirements
 
-The Requirements of the project is present in the confluence. Link for the same.
+
 
 2. Project Overview
 
-The overview of the project is described on the Lucid Chart. Link for the same.
+
 
 3. How to run the Project ?
 
